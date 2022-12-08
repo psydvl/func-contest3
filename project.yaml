@@ -1,0 +1,36 @@
+c0:
+  func:
+    - func/0.fc
+  tests:
+    - tests/0.fc
+
+c1:
+  func:
+    - func/1.fc
+  tests:
+    - tests/1.fc
+
+c2:
+  func:
+    - func/2.fc
+  tests:
+    - tests/2.fc
+
+c3:
+  func:
+    - func/3.fc
+  tests:
+    - tests/3.fc
+
+c4:
+  func:
+    - func/4.fc
+  tests:
+    - tests/4.fc
+
+c5:
+  func:
+    - func/5.fc
+  tests:
+    - tests/5.fc
+

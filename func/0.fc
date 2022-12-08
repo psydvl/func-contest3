@@ -1,0 +1,9 @@
+_ main() {
+    ;; do nothing
+}
+
+
+;; testable
+int add(int a, int b) method_id {
+    return a + b;
+}

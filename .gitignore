@@ -1,0 +1,7 @@
+.direnv/
+.envrc
+result.zip
+constraints.txt
+
+build/
+output/
